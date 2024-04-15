@@ -28,6 +28,8 @@ main{
     margin: auto;
     box-shadow: 1px 1px 8px #0000003b;
     position: relative;
+    margin-top: 10px;
+    border-radius: 10px;
 }
 
 main > section.image{
@@ -109,8 +111,8 @@ main > section.conteudo > div.buttom a > img{
 
 main > section.conteudo > a{
     position: absolute;
-    top:650px;
-
+    top:670px;
+    font-size: 1.3em;
     text-align: center;
     width: 90%;
     height: 20px;

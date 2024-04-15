@@ -27,6 +27,8 @@ main{
     height: 100vh;
     margin: auto;
     box-shadow: 1px 1px 8px #0000003b;
+    margin-top: 10px;
+    border-radius: 10px;
 }
 
 main > section.image{
