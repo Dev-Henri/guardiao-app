@@ -23,8 +23,7 @@ body{
 }
 
 main{
-    width: 450px;
-    max-width: 776px;
+    max-width: 430px;
     height: 100vh;
     margin: auto;
     box-shadow: 1px 1px 8px #0000003b;
