@@ -24,7 +24,7 @@ body{
 
 main{
     max-width: 430px;
-    height: 100vh;
+    height: 750px;
     margin: auto;
     box-shadow: 1px 1px 8px #0000003b;
     position: relative;
@@ -72,7 +72,7 @@ main > section.conteudo > div.buttom a{
     justify-content: center;
     
     position: absolute;
-    top: 500px;
+    top: 530px;
     left: 38px;
     font-size: 1.1em;
     
